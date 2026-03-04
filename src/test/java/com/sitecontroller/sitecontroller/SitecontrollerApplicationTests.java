@@ -12,8 +12,6 @@ import tools.jackson.databind.ObjectMapper;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.*;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
-//TO DO: Await Ibtesam's pull request, merge code, then try this ...
-
 @SpringBootTest
 @AutoConfigureMockMvc
 
